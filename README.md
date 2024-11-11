@@ -49,6 +49,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
+<img width="587" alt="Screenshot 2024-11-11 at 9 30 23 AM" src="https://github.com/user-attachments/assets/77da15c7-2756-47fd-b13c-8bcbf53d50db">
 
 
 # Output : 
