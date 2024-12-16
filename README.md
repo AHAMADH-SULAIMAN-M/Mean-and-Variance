@@ -1,3 +1,4 @@
+
 #  Mean and variance of a discrete  distribution
 
 
@@ -48,10 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-
+<img width="618" alt="Screenshot 2024-12-16 at 8 22 52 AM" src="https://github.com/user-attachments/assets/34ae2270-7732-420f-b5a5-b6c2e93106ce" />
 
 
 # Output : 
+<img width="517" alt="Screenshot 2024-12-16 at 8 22 59 AM" src="https://github.com/user-attachments/assets/4cc520d6-831a-4280-a068-120bf6542ed7" />
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
